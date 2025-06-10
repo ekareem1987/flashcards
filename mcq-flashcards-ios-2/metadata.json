@@ -1,0 +1,6 @@
+{
+  "name": "MCQ Flashcards iOS",
+  "description": "An iOS-style application to create, manage, and study Multiple Choice Question flashcards. Features AI-powered question generation using Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
